@@ -17,7 +17,7 @@ $f(x)=\Sigma_{k=0}^n \frac{f^{(k)}(x_0)(x-x_0)^k}{k!} + \frac{(x-x_0)^{n+1}f^{(n
 * proof using L'Hospital Rule
 * calculation of error terms using ???
 # Error in Machine Reading/Operating on a Number
-	$x_{TRUE}-x_{APPROX}$
+$x_{TRUE}-x_{APPROX}$
 ## floating point representation
 ### components
 * s: sign
@@ -25,7 +25,7 @@ $f(x)=\Sigma_{k=0}^n \frac{f^{(k)}(x_0)(x-x_0)^k}{k!} + \frac{(x-x_0)^{n+1}f^{(n
 * b: base
 * e: exponent
 ### representation
-	$smb^e$
+$smb^e$
 ### normalized floating pint representation	
 $\sigma(.a_1,...a_t)_ \beta \beta^e$, that is on a machine with t digits of precision.
 $a1\ne 0$
